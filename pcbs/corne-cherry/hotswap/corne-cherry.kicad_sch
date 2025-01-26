@@ -6,9 +6,9 @@
 	(paper "A5")
 	(title_block
 		(title "Corne")
-		(date "2024-05-07")
-		(rev "4.1.0")
-		(company "foostan")
+		(date "2025-01-21")
+		(rev "4.1.0-USB")
+		(company "tomislavrekic")
 	)
 	(lib_symbols)
 	(sheet

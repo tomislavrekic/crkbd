@@ -6,9 +6,9 @@
 	(paper "A3")
 	(title_block
 		(title "Corne Left")
-		(date "2023-10-07")
-		(rev "4.0.0")
-		(company "foostan")
+		(date "2025-01-21")
+		(rev "4.1.0-USB")
+		(company "tomislavrekic")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x03"
@@ -9653,6 +9653,15 @@
 				(hide yes)
 			)
 		)
+		(property "LSCS Part #" "C5149201 "
+			(at 208.28 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "58a94d2d-828c-44af-a982-c084359bdfa8")
 		)
@@ -9724,6 +9733,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 58.42 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LSCS Part #" "C25100"
 			(at 58.42 135.89 0)
 			(effects
 				(font
@@ -9952,6 +9970,15 @@
 				(hide yes)
 			)
 		)
+		(property "LSCS Part #" "C5149201 "
+			(at 254 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1df59c13-4f54-4b5d-843a-8754fada4f8b")
 		)
@@ -10097,6 +10124,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 269.24 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LSCS Part #" "C5149201 "
 			(at 269.24 208.28 0)
 			(effects
 				(font
@@ -10367,7 +10403,7 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "10k"
 			(at 67.945 45.72 90)
 			(effects
 				(font
@@ -10394,6 +10430,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 67.945 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LSCS Part #" "C25744"
 			(at 67.945 45.72 0)
 			(effects
 				(font
@@ -10768,7 +10813,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C2040"
+		(property "LSCS Part #" "C2040"
 			(at 86.36 166.37 0)
 			(effects
 				(font
@@ -11234,6 +11279,15 @@
 				(hide yes)
 			)
 		)
+		(property "LSCS Part #" "C5149201 "
+			(at 208.28 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4cc7706f-bba5-4154-b107-703f3363988d")
 		)
@@ -11531,6 +11585,15 @@
 				(hide yes)
 			)
 		)
+		(property "LSCS Part #" "C5149201 "
+			(at 238.76 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5dbd66c4-ea89-41de-880b-51d6b71beba9")
 		)
@@ -11604,6 +11667,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 269.24 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LSCS Part #" "C5149201 "
 			(at 269.24 245.11 0)
 			(effects
 				(font
@@ -11694,8 +11766,8 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C232841"
-			(at 215.9 181.61 90)
+		(property "LSCS Part #" "C232841"
+			(at 215.9 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11842,6 +11914,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 284.48 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LSCS Part #" "C5149201 "
 			(at 284.48 227.33 0)
 			(effects
 				(font
@@ -12077,6 +12158,15 @@
 				(hide yes)
 			)
 		)
+		(property "LSCS Part #" "C1557"
+			(at 38.1 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e2fc95d3-523e-4303-a296-cdae2d8143d6")
 		)
@@ -12216,6 +12306,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 254 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LSCS Part #" "C5149201 "
 			(at 254 208.28 0)
 			(effects
 				(font
@@ -12594,6 +12693,15 @@
 				(hide yes)
 			)
 		)
+		(property "LSCS Part #" "C5149201 "
+			(at 223.52 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2d9bc3a0-f765-4a26-bf2a-5aeb02a08120")
 		)
@@ -12667,6 +12775,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 193.04 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LSCS Part #" "C5149201 "
 			(at 193.04 245.11 0)
 			(effects
 				(font
@@ -12889,6 +13006,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 67.945 38.735 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LSCS Part #" "C25908"
 			(at 67.945 38.735 0)
 			(effects
 				(font
@@ -13187,6 +13313,15 @@
 				(hide yes)
 			)
 		)
+		(property "LSCS Part #" "C5149201 "
+			(at 223.52 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b5ff7411-1b77-4c76-a11c-db203d799700")
 		)
@@ -13339,7 +13474,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C138714"
+		(property "LSCS Part #" "C138714"
 			(at 156.21 38.1 0)
 			(effects
 				(font
@@ -13518,6 +13653,15 @@
 				(hide yes)
 			)
 		)
+		(property "LSCS Part #" "C5149201 "
+			(at 193.04 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bf4ecf36-669a-4522-ad32-15f4a8490276")
 		)
@@ -13598,16 +13742,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
-			(at 267.97 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Part #" "C882974"
+		(property "LSCS Part #" "C882974"
 			(at 267.97 78.74 0)
 			(effects
 				(font
@@ -14064,8 +14199,8 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C145179"
-			(at 302.26 35.56 90)
+		(property "LSCS Part #" "C145179"
+			(at 302.26 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14368,6 +14503,15 @@
 				(hide yes)
 			)
 		)
+		(property "LSCS Part #" "C1525"
+			(at 124.46 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ae3630c8-c6c2-4230-a028-cbf4879ffe64")
 		)
@@ -14513,7 +14657,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C138714"
+		(property "LSCS Part #" "C138714"
 			(at 318.77 69.85 0)
 			(effects
 				(font
@@ -14693,6 +14837,15 @@
 				(hide yes)
 			)
 		)
+		(property "LSCS Part #" "C5149201 "
+			(at 254 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f64652ff-91ca-4236-b89c-97f1ea69d2aa")
 		)
@@ -14837,6 +14990,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 62.23 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LSCS Part #" "C1525"
 			(at 62.23 102.87 0)
 			(effects
 				(font
@@ -15064,6 +15226,15 @@
 				(hide yes)
 			)
 		)
+		(property "LSCS Part #" "C5149201 "
+			(at 238.76 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ad4790e3-e327-417d-93b2-aa10aee5e256")
 		)
@@ -15137,6 +15308,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 73.66 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LSCS Part #" "C1525"
 			(at 73.66 102.87 0)
 			(effects
 				(font
@@ -15220,8 +15400,8 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C145179"
-			(at 78.74 33.02 90)
+		(property "LSCS Part #" "C145179"
+			(at 78.74 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15304,6 +15484,15 @@
 				(hide yes)
 			)
 		)
+		(property "LSCS Part #" "C52923"
+			(at 73.66 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "851476e9-5809-4d8c-944f-812f1072db6a")
 		)
@@ -15377,7 +15566,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C2848620"
+		(property "LSCS Part #" "C2848620"
 			(at 271.78 50.8 0)
 			(effects
 				(font
@@ -15566,6 +15755,15 @@
 				(hide yes)
 			)
 		)
+		(property "LSCS Part #" "C1525"
+			(at 114.3 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2632d6ed-739e-4f2d-9a37-a2cc94dafc8d")
 		)
@@ -15648,8 +15846,8 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C91749"
-			(at 48.26 179.07 90)
+		(property "LSCS Part #" "C91749"
+			(at 48.26 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15730,6 +15928,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 238.76 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LSCS Part #" "C5149201 "
 			(at 238.76 262.89 0)
 			(effects
 				(font
@@ -15819,7 +16026,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C113767"
+		(property "LSCS Part #" "C113767"
 			(at 233.68 55.88 0)
 			(effects
 				(font
@@ -15993,6 +16200,15 @@
 				(hide yes)
 			)
 		)
+		(property "LSCS Part #" "C1525"
+			(at 133.35 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1959063c-ae56-4580-8f40-b8851e3ad97b")
 		)
@@ -16060,6 +16276,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 125.73 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LSCS Part #" "C15525"
 			(at 125.73 35.56 0)
 			(effects
 				(font
@@ -16503,16 +16728,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
-			(at 293.37 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Part #" "C882974"
+		(property "LSCS Part #" "C882974"
 			(at 293.37 35.56 0)
 			(effects
 				(font
@@ -16658,6 +16874,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 143.51 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LSCS Part #" "C1525"
 			(at 143.51 104.14 0)
 			(effects
 				(font
@@ -16956,6 +17181,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 104.14 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LSCS Part #" "C1525"
 			(at 104.14 104.14 0)
 			(effects
 				(font
@@ -17322,7 +17556,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C2848620"
+		(property "LSCS Part #" "C2848620"
 			(at 35.56 48.26 0)
 			(effects
 				(font
@@ -17653,6 +17887,15 @@
 				(hide yes)
 			)
 		)
+		(property "LSCS Part #" "C25100"
+			(at 58.42 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eebd99ed-b6dc-40c5-8bd1-68e47b91cd02")
 		)
@@ -17720,6 +17963,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 38.1 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LSCS Part #" "C1557"
 			(at 38.1 173.99 0)
 			(effects
 				(font
@@ -18240,6 +18492,15 @@
 				(hide yes)
 			)
 		)
+		(property "LSCS Part #" "C25905"
+			(at 53.34 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0ea799ad-1760-4fcd-943b-00d3f7c04515")
 		)
@@ -18307,6 +18568,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 162.56 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LSCS Part #" "C1525"
 			(at 162.56 104.14 0)
 			(effects
 				(font
@@ -18462,6 +18732,15 @@
 				(hide yes)
 			)
 		)
+		(property "LSCS Part #" "C1525"
+			(at 152.4 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "be313191-7cac-4e50-953d-17d8c84909de")
 		)
@@ -18609,6 +18888,15 @@
 				(hide yes)
 			)
 		)
+		(property "LSCS Part #" "C5149201 "
+			(at 284.48 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2e25f118-6e6e-4049-ada4-59159efcd85d")
 		)
@@ -18682,6 +18970,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 223.52 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LSCS Part #" "C5149201 "
 			(at 223.52 245.11 0)
 			(effects
 				(font
@@ -18844,6 +19141,15 @@
 				(hide yes)
 			)
 		)
+		(property "LSCS Part #" "C5149201 "
+			(at 208.28 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "74c41352-98ab-4744-9520-36e0d2921a67")
 		)
@@ -18924,7 +19230,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C455280"
+		(property "LSCS Part #" "C455280"
 			(at 195.58 48.26 0)
 			(effects
 				(font
@@ -19007,7 +19313,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C882974"
+		(property "LSCS Part #" "C882974"
 			(at 55.88 33.02 0)
 			(effects
 				(font
@@ -19083,6 +19389,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 212.09 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LSCS Part #" "C25744"
 			(at 212.09 44.45 0)
 			(effects
 				(font
@@ -19310,6 +19625,15 @@
 				(hide yes)
 			)
 		)
+		(property "LSCS Part #" "C52923"
+			(at 237.49 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "53300b86-1332-4e81-8bad-4a0671ca0703")
 		)
@@ -19529,6 +19853,15 @@
 				(hide yes)
 			)
 		)
+		(property "LSCS Part #" "C15525"
+			(at 97.79 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ff7c567d-97a3-42a0-a644-e6f7e41e83f7")
 		)
@@ -19603,7 +19936,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C455280"
+		(property "LSCS Part #" "C455280"
 			(at 55.88 128.27 0)
 			(effects
 				(font
@@ -19687,6 +20020,15 @@
 				(hide yes)
 			)
 		)
+		(property "LSCS Part #" "C5149201 "
+			(at 254 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6e98e57c-6283-4eda-b71d-d6191b9ab6c0")
 		)
@@ -19760,6 +20102,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 269.24 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LSCS Part #" "C5149201 "
 			(at 269.24 262.89 0)
 			(effects
 				(font
@@ -19919,16 +20270,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
-			(at 31.75 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Part #" "C882974"
+		(property "LSCS Part #" "C882974"
 			(at 31.75 76.2 0)
 			(effects
 				(font
@@ -20299,6 +20641,15 @@
 				(hide yes)
 			)
 		)
+		(property "LSCS Part #" "C5149201 "
+			(at 238.76 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "52d76f6b-a098-4620-82f1-11e025ce8d19")
 		)
@@ -20380,6 +20731,15 @@
 				(hide yes)
 			)
 		)
+		(property "LSCS Part #" "C11702"
+			(at 55.88 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "386c667d-5bd4-4725-be9b-17087b574671")
 		)
@@ -20453,7 +20813,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C146799"
+		(property "LSCS Part #" "C146799"
 			(at 111.76 33.02 0)
 			(effects
 				(font
@@ -20604,6 +20964,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 269.24 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LSCS Part #" "C5149201 "
 			(at 269.24 227.33 0)
 			(effects
 				(font
@@ -20909,6 +21278,15 @@
 				(hide yes)
 			)
 		)
+		(property "LSCS Part #" "C5149201 "
+			(at 193.04 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ab51f291-dfe0-482d-8a8d-ebe05858d20c")
 		)
@@ -21135,6 +21513,15 @@
 				(hide yes)
 			)
 		)
+		(property "LSCS Part #" "C52923"
+			(at 105.41 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "442ac0c5-2ab8-4da2-a74b-d6cb278fdcea")
 		)
@@ -21200,6 +21587,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 53.34 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LSCS Part #" "C25905"
 			(at 53.34 38.1 0)
 			(effects
 				(font
@@ -21345,6 +21741,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 204.47 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LSCS Part #" "C11702"
 			(at 204.47 48.26 0)
 			(effects
 				(font
