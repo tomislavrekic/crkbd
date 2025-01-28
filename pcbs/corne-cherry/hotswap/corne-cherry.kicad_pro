@@ -59,7 +59,25 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "duplicate_footprints|-90487500|38981250|c979ff4a-0593-4e64-af32-c202415dfbe7|13c0737f-3d49-4fc4-b686-ed5a5524fb4a",
+        "extra_footprint|-90487500|38981250|c979ff4a-0593-4e64-af32-c202415dfbe7|00000000-0000-0000-0000-000000000000",
+        "extra_footprint|90487500|38981250|13c0737f-3d49-4fc4-b686-ed5a5524fb4a|00000000-0000-0000-0000-000000000000",
+        "footprint_type_mismatch|-12187498|-15838699|cee25bc0-a44d-4611-899f-01dc7f6abbb7|00000000-0000-0000-0000-000000000000",
+        "footprint_type_mismatch|-5667498|36428439|69fa9a40-880d-4f7d-bd1e-5e79c8eaea56|00000000-0000-0000-0000-000000000000",
+        "footprint_type_mismatch|12287500|-15838699|2c32e555-19f9-4ce3-a76e-b798cbdf6c49|00000000-0000-0000-0000-000000000000",
+        "footprint_type_mismatch|5732502|36420015|a656d2d9-a964-4198-80e9-0fd3919536aa|00000000-0000-0000-0000-000000000000",
+        "unconnected_items|-17807498|-15838699|10557cc4-9f3b-424a-a60b-bbc54adacea4|e76653bd-705f-4af2-8757-d175ebb148d8",
+        "unconnected_items|-5667498|30808439|db9a3639-3b9d-412f-8892-3172f675a52e|495e2c3d-1937-43c3-8791-7b71221717e3",
+        "unconnected_items|-5667498|42048439|08ed798c-3072-496c-868d-8ed3b1c9508b|db9a3639-3b9d-412f-8892-3172f675a52e",
+        "unconnected_items|-6567498|-15838699|1e599ff3-fe76-4b84-a4cd-5eae6a2b4272|9dea0a8d-a83e-4203-8a08-230b4ff21142",
+        "unconnected_items|-6667500|-11963750|9dea0a8d-a83e-4203-8a08-230b4ff21142|5ffbe011-665b-457e-941a-dfc37905596a",
+        "unconnected_items|17907500|-11963750|2ded7d13-2d7f-429d-a1da-d8f96deb4f54|c17b867f-7c03-4fbe-8fe8-727ccac0c348",
+        "unconnected_items|6667500|-11838699|4b99456f-4c14-4a78-a2f3-f320b81e28bf|33df9036-e6c2-4ba9-8757-2cab2d9b4af4",
+        "unconnected_items|6667500|-11963750|94bf7a89-ead7-4419-addf-012b1dec5a89|655990cf-a8b1-4be3-88c9-98cf05715820",
+        "unconnected_items|9732502|30800015|e5383f7f-537a-4afa-82f4-336a433f114e|fb4714ee-f417-47ee-a2f3-0ae19fe6ad80",
+        "unconnected_items|9732502|42040015|02be1ba3-f50a-4f38-aade-64d896cc8f8b|e5383f7f-537a-4afa-82f4-336a433f114e"
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -616,7 +634,7 @@
       "meta": {
         "version": 0
       },
-      "model_mode": 0,
+      "model_mode": 4,
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
