@@ -6781,16 +6781,6 @@
 	)
 	(wire
 		(pts
-			(xy 308.61 34.29) (xy 321.31 34.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "10bb480b-c43b-4758-a54d-3f5c34c89096")
-	)
-	(wire
-		(pts
 			(xy 27.94 187.96) (xy 40.64 187.96)
 		)
 		(stroke
@@ -7471,7 +7461,7 @@
 	)
 	(wire
 		(pts
-			(xy 293.37 34.29) (xy 300.99 34.29)
+			(xy 293.37 34.29) (xy 321.31 34.29)
 		)
 		(stroke
 			(width 0)
@@ -16830,90 +16820,6 @@
 			(project "corne-cherry"
 				(path "/4cc5d416-57f5-4147-8183-e03ae6b1198a/50d96a5e-3d25-4129-9495-15388c76587f"
 					(reference "rFB3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:ESD5Zxx")
-		(at 304.8 34.29 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a366daa2-7171-4cc9-9506-5757cf5e4ad7")
-		(property "Reference" "rZD?"
-			(at 306.705 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "RB521S30T1G"
-			(at 316.23 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 304.8 29.845 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 304.8 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 304.8 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LSCS Part #" "C145179"
-			(at 304.8 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "07c3472c-072e-45a5-9e51-a9d5f8535f29")
-		)
-		(pin "2"
-			(uuid "77f21f1d-4db8-4095-b830-4f4fbc456563")
-		)
-		(instances
-			(project "right"
-				(path "/04ecfb8d-8dc8-41d9-b176-68a9b73f1e5e"
-					(reference "rZD?")
-					(unit 1)
-				)
-			)
-			(project "corne-cherry"
-				(path "/4cc5d416-57f5-4147-8183-e03ae6b1198a/50d96a5e-3d25-4129-9495-15388c76587f"
-					(reference "rZD2")
 					(unit 1)
 				)
 			)
